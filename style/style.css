@@ -1,0 +1,81 @@
+@font-face{
+  font-family: "libras";
+  src: url('libras.ttf');
+}
+  
+.custom-navbar {
+  background-color: #6B3F24; /* Defina a cor de fundo desejada aqui */
+  padding: 15px;
+  font-family: 'Imprima', sans-serif;
+  justify-content: center;
+}
+
+.custom-navbar p{
+  font-size: 32px;
+}  
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+  color: #fff; /* Defina a cor dos links aqui */
+}
+
+.custom-navbar .nav-link {
+  color: #fff; /* Defina a cor do link ativo aqui */
+  font-size: 20px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #0a03037e; /* Defina a cor do link ativo aqui */
+}
+    
+.navbar-toggler {
+  border: solid 2px black;
+  width: 64px;  /* Ajustando a largura do botão */
+  height: 64px; /* Ajustando a altura do botão */
+  font-size: 32px; /*Ajustando tamnho do Emoji*/
+  background-color: rgb(82, 204, 12);
+  border-radius: 16px; /* Ajustando para bordas completamente arredondadas */
+  padding: 8px 8px;  /* Ajuste no padding para centralizar o ícone */
+}
+/* Todas páginas */
+  
+.h2-style{
+  text-align: center;
+  margin-top: 8px;
+  margin-bottom: 8px;
+} 
+
+/* Corpo da página inicial */
+
+body {
+  background-color: #9af59a;
+}
+
+.navbar {
+  justify-content: space-between;
+}
+
+.row{
+  display: flex;
+}
+
+.col{
+  margin-top: 1.5vh;
+  margin-bottom: 1.5vh;
+}
+
+/* Instrucoes */
+
+.item{
+  color: #000;
+  font-size: 24px;
+  margin: 2vh;
+}
+
+img{
+  width: 30vh;
+  border-color: #000;
+  border: solid;
+}

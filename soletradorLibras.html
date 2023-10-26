@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Imprima&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style/style_soletradorLibras.css">
+    <title>Soletrador de Libras</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg custom-navbar">
+        <div class="container-fluid">
+          <div  id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-link" aria-current="page" href="./tradutorLibras.html">👉Tradutor de Libras</a>
+              <a class="nav-link" href="./calculadora.html">🔢Calculadora</a>
+              <a class="nav-link" href="./soletradorLibras.html">🔤Soletrador de Libras</a>
+              <a class="nav-link" href="./index.html">❓Ajuda</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+
+      <div class="container h2-style">
+        <h2>Soletrador de Libras</h2>
+      </div>
+
+      <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="card mb-4">
+                  <div class="card-body card-style">
+                    <h5 class="card-title">Português</h5>
+                    <input type="text" class="text-area-pt" id="textAreaPortugues" placeholder="Escreva Aqui">
+                </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                  <div class="card-body card-style">
+                    <h5 class="card-title">Libras</h5>
+                    <input type="text" class="text-area-lb" id="textAreaLibras" readonly>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  <div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+      <div class="vw-plugin-top-wrapper"></div>
+    </div>
+  </div>
+  <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+  <script>
+    new window.VLibras.Widget('https://vlibras.gov.br/app');
+  </script>
+<script src="./scripts/script_avatar3d.js"></script>
+
+<script src="./scripts/script_tradutor.js"></script>
+</body>
+</html>
