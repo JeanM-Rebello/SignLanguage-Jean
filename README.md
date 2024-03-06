@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 # Libras-Jean
 
 ### Protitopo de um site focado em deficientes auditivos com as funções
@@ -7,3 +8,9 @@
 * Soletração de frases em Português para o libras.
 
 * Calculadora com resultados em Português e Libras.
+
+Link desse protótipo:
+https://jeanm-rebello.github.io/Libras-Jean/
+
+Link do protótipo mais avançado, o qual o projeto está privado em outro repositório:
+https://www.paulitoscompany.tech/accounts/login/
