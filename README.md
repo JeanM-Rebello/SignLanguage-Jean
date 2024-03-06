@@ -1,7 +1,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 # Libras-Jean
 
-### Protitopo de um site focado em deficientes auditivos com as funções
+### Protitopo de um site focado em deficientes auditivos com as seguinte funções:
 
 * Tradução de texto em Português para libras de forma visual com o uso do Vlibras. 
 
