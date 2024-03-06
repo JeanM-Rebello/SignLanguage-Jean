@@ -11,9 +11,8 @@
 
 --------------------------
 
-Link desse protótipo:
+Link desse protótipo:<br>
 https://jeanm-rebello.github.io/Libras-Jean/
-------------------------------
 
-Link do protótipo mais avançado, o qual o projeto está privado em outro repositório:
+Link do protótipo mais avançado, o qual o projeto está privado em outro repositório:<br>
 https://www.paulitoscompany.tech/accounts/login/
