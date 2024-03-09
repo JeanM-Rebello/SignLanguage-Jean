@@ -1,5 +1,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-# Libras-Jean
+# Sign Language - Jean
 
 ### Prototype of a website focused on the hearing impaired with the following functions:
 
