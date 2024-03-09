@@ -1,18 +1,18 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 # Libras-Jean
 
-### Protitopo de um site focado em deficientes auditivos com as seguinte funções:
+### Prototype of a website focused on the hearing impaired with the following functions:
 
-* Tradução de texto em Português para libras de forma visual com o uso do Vlibras. 
+* Translate text from Portuguese to Sign Language visually using Vlibras.
 
-* Soletração de frases em Português para o libras.
+* Spelling sentences in Portuguese for Sign Language
 
-* Calculadora com resultados em Português e Libras.
+* Calculator with results in Portuguese and Sign Language
 
 --------------------------
 
-Link desse protótipo:<br>
+Link to this prototype:<br>
 https://jeanm-rebello.github.io/Libras-Jean/
 
-Link do protótipo mais avançado, o qual o projeto está privado em outro repositório:<br>
+Link to the most advanced prototype, which the project is private in another repository:<br>
 https://www.paulitoscompany.tech/accounts/login/
